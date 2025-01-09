@@ -226,27 +226,3 @@ footer {
   color: rgba(255, 242, 228, 1);
   background: rgba(181, 144, 102, 1);
 }
-
-@media screen and (max-width: 768px) {
-  #landing {
-    background-position: center center;
-    text-align: center;
-    height: auto;
-    padding: 15px;
-  }
-}
-
-@media screen and (max-width: 480px) {
-  #landing h1 {
-    font-size: 1.5rem;
-  }
-
-  #landing p {
-    font-size: 0.9rem;
-  }
-
-  #landing .btn {
-    font-size: 1rem;
-    padding: 8px 15px;
-  }
-}
