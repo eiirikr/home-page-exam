@@ -28,14 +28,14 @@ nav {
   text-align: center;
 }
 
-.landing-des {
+.hero-des {
   width: 493px;
   height: 290px;
   top: 222px;
   left: 263px;
 }
 
-#landing p {
+#hero p {
   font-size: 24px;
   font-weight: 400;
   line-height: 30px;
@@ -62,7 +62,7 @@ nav {
   opacity: 1;
 }
 
-#landing {
+#hero {
   background: linear-gradient(rgba(0, 0, 0, 0.59), rgba(0, 0, 0, 0.59)),
     url("./images/banner.png");
   background-repeat: no-repeat;
